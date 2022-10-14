@@ -1,0 +1,46 @@
+td {
+    width: 8vw;
+    height: 8vw;
+    background-color: white;
+    border: 5px solid black;
+    text-align: center;
+    font-size:  5vw;
+    font-weight: bolder;
+  }
+  tr {
+    background: red;
+  }
+  table {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+  }
+  h1 {
+    font-size: 4vw;
+    text-align: center;
+    color: white;
+  }
+  body {
+
+    background: black;
+  }
+  .btn {
+    font-size: 2vw;
+    padding: 1.5vw;
+    border: none;
+    font-weight: bolder;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    cursor: pointer;
+  }
+  
+  .btn-container {
+    display: flex;
+    margin-top: 5%;
+
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: none;
+  }
